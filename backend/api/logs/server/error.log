@@ -1,0 +1,26 @@
+[2023-04-27T12:15:20.205Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:15:39.644Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:21:09.732Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:27.547Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:34.310Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:39.305Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:40.921Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:43.101Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:32:44.298Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:35:06.469Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:43:59.079Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:44:54.619Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}
+[2023-04-27T12:45:32.195Z] ERROR: POST /auth/login Error: uncaughtException: ERR value is not an integer or out of range
+  No stack trace {}

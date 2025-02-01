@@ -1,0 +1,565 @@
+[2024-09-10T13:16:55.067Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T08:22:07.729Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T08:29:56.644Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T09:23:44.890Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T09:23:58.909Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T09:24:21.164Z] ERROR: Scrapping session #1: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+Error: Could not find Chromium (rev. 1108766). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Raman grewal\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ProductLauncher.ts:408:17)
+    at ChromeLauncher.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\ChromeLauncher.ts:238:19)
+    at PuppeteerNode.executablePath (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\node_modules\puppeteer-core\src\node\PuppeteerNode.ts:209:27)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:16:35)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:2:1)
+    at Object.apply (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:27:2)
+    at Object.launchBrowser (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/browser.js:11:29)
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:46:21)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/index.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27T14:47:42.004Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+Error: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-27T14:52:35.104Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TypeError: page.waitForTimeout is not a function
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TypeError: page.waitForTimeout is not a function
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-27T15:05:14.244Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-09-27T15:10:02.229Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-09-27T15:11:23.921Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+Error: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-27T15:14:17.329Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-27T15:18:57.146Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-27T15:19:57.036Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+Error: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:12:22.393Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:14:22.968Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:17:25.959Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-09-28T05:19:20.289Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+Error: Navigating to url: https://www.coursera.org/courses?quey=free failed => : Error: net::ERR_TIMED_OUT at https://www.coursera.org/courses?quey=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:26:48.972Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : Error: net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:28:00.033Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : Error: net::ERR_TIMED_OUT at https://www.udemy.com/courses/search/?src=ukw&q=free
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:32:17.483Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-09-28T05:35:48.858Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:36:09.412Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed => : TypeError: page.waitForTimeout is not a function
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:21:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _next (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-09-28T05:37:55.861Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TimeoutError: Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TimeoutError: Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-10-01T06:17:01.251Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?quey=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+Error: Navigating to url: https://www.coursera.org/courses?quey=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+    at call (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\Users\Raman grewal\Downloads\CourseFinder\CourseFinder\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:01:29.197Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+Error: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:02:19.729Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+Error: Navigating to url: https://www.coursera.org/courses?query=free failed => : TimeoutError: Navigation timeout of 30000 ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:03:32.269Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TimeoutError: Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed => : TimeoutError: Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:08:30.003Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-10-01T08:14:48.874Z] ERROR: Scrapping session #1: Navigating to url: undefined failed with error: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed with error: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:38:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:15:09.848Z] ERROR: Scrapping session #1: Navigating to url: undefined failed with error: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed with error: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:38:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T08:17:45.822Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T09:09:38.491Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-01T09:10:12.916Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T05:48:29.180Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-10-15T05:49:00.994Z] ERROR: Scrapping session #1: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+Error: Navigating to url: undefined failed => : ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:22:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T06:10:01.328Z] ERROR: Scrapping session #1: Navigating to url: https://www.coursera.org/courses?query=free failed => : Error: Navigating frame was detached
+Error: Navigating to url: https://www.coursera.org/courses?query=free failed => : Error: Navigating frame was detached
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:23:11)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _throw (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T06:26:14.854Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T06:27:00.360Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--FuG0T` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T06:48:41.550Z] ERROR: Scrapping session #1: _scraper.default.getCourseLinks is not a function
+TypeError: _scraper.default.getCourseLinks is not a function
+    at call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:15:37)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1
+    at new Promise (<anonymous>)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:26:2)
+    at getData (C:\node\New folder\StudySensei\backend\scraper\/controller.js:14:23)
+    at ScraperController.call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:79:32)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+[2024-10-15T06:49:58.106Z] ERROR: Scrapping session #1: _scraper.default.getCourseLinks is not a function
+TypeError: _scraper.default.getCourseLinks is not a function
+    at call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:15:37)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1
+    at new Promise (<anonymous>)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:26:2)
+    at getData (C:\node\New folder\StudySensei\backend\scraper\/controller.js:14:23)
+    at ScraperController.call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:79:32)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+[2024-10-15T06:53:45.515Z] ERROR: Scrapping session #1: _scraper.default.getCourseLinks is not a function
+TypeError: _scraper.default.getCourseLinks is not a function
+    at call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:15:37)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1
+    at new Promise (<anonymous>)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at apply (C:\node\New folder\StudySensei\backend\scraper\/controller.js:26:2)
+    at getData (C:\node\New folder\StudySensei\backend\scraper\/controller.js:14:23)
+    at ScraperController.call (C:\node\New folder\StudySensei\backend\scraper\/controller.js:79:32)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/controller.js:2:1)
+[2024-10-15T06:55:58.709Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T07:45:24.131Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `course-list--container--HY2ry` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `course-list--container--HY2ry` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processImmediate (node:internal/timers:449:9)
+[2024-10-15T07:57:41.466Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : net::ERR_TIMED_OUT at https://www.udacity.com/courses/all?price=Free
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-10-15T08:07:34.378Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-12-01T03:34:21.711Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : net::ERR_PROXY_CONNECTION_FAILED at https://www.udacity.com/courses/all?price=Free
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : net::ERR_PROXY_CONNECTION_FAILED at https://www.udacity.com/courses/all?price=Free
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-12-11T05:32:27.133Z] ERROR: Scrapping session #1: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--HY2ry` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udemy.com/courses/search/?src=ukw&q=free failed after 1 attempts => : Waiting for selector `div.course-list--container--HY2ry` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+[2024-12-19T05:24:41.219Z] ERROR: Scrapping session #1: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+Error: Navigating to url: https://www.udacity.com/courses/all?price=Free failed after 1 attempts => : Waiting for selector `.catalog-v2_results__E2dd9 li` failed: Waiting failed: 30000ms exceeded
+    at call (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:39:15)
+    at tryCatch (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator._invoke (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at Generator.next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at asyncGeneratorStep (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)
+    at _next (C:\node\New folder\StudySensei\backend\scraper\/scraper.js:2:1)

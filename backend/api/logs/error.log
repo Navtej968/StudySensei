@@ -1,0 +1,10 @@
+[2025-02-01T03:03:35.420Z] ERROR: POST /auth/login Error: uncaughtException: Operation `users.findOne()` buffering timed out after 10000ms
+MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\old_lapi\StudySensei\backend\api\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7) {}
+[2025-02-01T03:03:36.116Z] ERROR: POST /auth/login Error: uncaughtException: Operation `users.findOne()` buffering timed out after 10000ms
+MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\old_lapi\StudySensei\backend\api\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7) {}

@@ -1,0 +1,53 @@
+@import "normalize.css";
+/**
+* Starting of my styling section
+*/
+
+
+*,
+*::after,
+*::before{
+    padding:0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+::selection {
+    background-color: rgb(26, 15, 243);
+    color: #ffffff;
+}
+/* Sets the default font size to 62.5%, which is 10px in most browsers */
+html {
+    font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+  
+}
+
+a,
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+/*tab-port = 900px*/
+@media only screen and (max-width: 56.25em) {
+    html{
+        font-size: 50%;
+    }
+}
+/*tab-landing = 1200px*/
+@media only screen and (max-width: 75em) {
+    html{
+        font-size: 56.25%;
+    }
+}
+/*big-desktop = 1800px*/
+@media only screen and (min-width: 112.5em) {
+    html{
+        font-size: 75%;
+    }
+}
